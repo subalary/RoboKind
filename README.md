@@ -4,7 +4,7 @@ Java project which uses the RoboKind Basic API; for use with R50 RoboKind-based 
 
 ## Packages
 
-### **basic**
+**### basic**
 Contains classes with main methods for testing and example use. App.java is the most basic example, VisitorDemo.java
 builds on this. ExpressionDemo shows how to use the Expression class; GripDemo is a basic example which demonstrates
 the robot's grip. SensorsTest.java is the RoboKind example for connecting to the robot's sensors. Finally, JointTest.
