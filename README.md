@@ -42,4 +42,4 @@ should work but currently doesn't.
 #### Authors
 
 **Lianne Meah** [(Subalary)](http://www.twitter.com/subalary)
-FaceMonitor.java by [Jason Pallack](mailto:jgpallack@gmail.com)
+FaceMonitor.java/FaceTest.java by [Jason Pallack](mailto:jgpallack@gmail.com)
