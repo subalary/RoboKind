@@ -38,4 +38,4 @@ Contains example code for use with face detection and tracking.
 #### Authors
 
 **Lianne Meah** [(Subalary)](http://www.twitter.com/subalary)
-FaceMonitor.java by [Jason Pallack](jgpallack@gmail.com)
+FaceMonitor.java by [Jason Pallack](mailto:jgpallack@gmail.com)
